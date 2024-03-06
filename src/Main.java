@@ -7,5 +7,7 @@ public class Main
 
         classA.setNumOfDesks(10);
         classA.numOfDesks();
+
+        System.out.println(classA.desks);
     }
 }
